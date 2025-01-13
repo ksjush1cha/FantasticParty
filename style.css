@@ -1,0 +1,81 @@
+body {
+    font-family: arial;
+}
+
+header {
+    color: rgb(13, 52, 84);
+    background-color: white;
+    padding: 8px;
+    border-radius: 50px;
+    border: 6px dotted rgb(250, 226, 70)
+    
+}
+
+header a {
+    text-decoration: none;
+    color: rgb(249, 251, 227);
+    background-color: rgb(170, 22, 22);
+    padding: 6px;
+    border-radius: 15px;
+
+}
+
+nav {
+    text-align: center;
+    margin: 5px;
+}
+
+nav a {
+    padding: 15px;
+    text-decoration: none;
+    color: rgb(105, 185, 255);
+
+}
+
+main h1 {
+    text-align: center;
+    color: rgb(141, 13, 13);
+    border-radius: 40px;
+    border: 3px solid rgb(250, 230, 99);
+}
+
+footer p {
+    color: rgb(122, 13, 13);
+    border-radius: 50px;
+    border: 5px dotted rgb(250, 230, 99);
+    padding: 5px;
+    margin: 7px;
+}
+
+.footerstyle2 {
+    text-align: center;
+    border: 3px solid rgb(105, 185, 255);
+    margin: 20px;
+}
+
+select {
+    background-color: rgb(250, 230, 99);
+    border-radius: 20px;
+    padding: 3px;
+    margin: 10px;
+}
+
+.select1 { 
+    border: 4px solid rgb(134, 16, 16) ;
+    padding: 3px;
+    margin: 7px;
+}
+
+option {
+    border: 5px solid white;
+    border-radius: 20px;
+    background-color: rgb(105,185,255);
+}
+
+.all {
+    background-color: lightyellow;
+    color: rgb(26, 26, 126);
+    border-radius: 30px;
+    border: 4px solid rgb(134, 16, 16);
+    padding: 8px;
+}
